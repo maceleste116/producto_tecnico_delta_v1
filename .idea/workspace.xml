@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3276ea54-cdb2-4c00-9786-16e2d99ebbae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivers/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/qa/CucumberTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/qa/conf/DriverConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/qa/features/producto_tecnico.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/qa/pageobjects/CrearProductoTecnicoPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/qa/pageobjects/HomeProductoTecnicoPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/qa/stepdefinitions/ProductoTecnicoStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/qa/CucumberTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/qa/conf/DriverConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/qa/stepdefinitions/ProductoTecnicoStepDefs.class" afterDir="false" />
-    </list>
+    <list default="true" id="3276ea54-cdb2-4c00-9786-16e2d99ebbae" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
