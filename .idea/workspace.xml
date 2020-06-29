@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3276ea54-cdb2-4c00-9786-16e2d99ebbae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/qa/CucumberTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/qa/conf/DriverConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/qa/features/producto_tecnico.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/qa/pageobjects/CrearProductoTecnicoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/qa/pageobjects/HomeProductoTecnicoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/qa/stepdefinitions/ProductoTecnicoStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/qa/CucumberTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/qa/conf/DriverConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/qa/stepdefinitions/ProductoTecnicoStepDefs.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1drNqfv7LZOZskFZFNSadnsl4Fg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="TestNG.CucumberTests">
+    <configuration name="Scenario: Crear producto tecnico con datos requeridos" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/qa/features/producto_tecnico.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="delta_producto_tecnico_v1" />
+      <option name="NAME_FILTER" value="^Crear producto tecnico con datos requeridos$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Crear producto tecnico con datos requeridos$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Crear producto tecnico con datos requeridos" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="delta_producto_tecnico_v1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qa" />
+      <option name="MAIN_CLASS_NAME" value="qa.CucumberTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CucumberTests" />
+        <item itemvalue="Cucumber Java.Scenario: Crear producto tecnico con datos requeridos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3276ea54-cdb2-4c00-9786-16e2d99ebbae" name="Default Changelist" comment="" />
+      <created>1593179443861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593179443861</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1593437405221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593437405221" />
+    <state width="1323" height="205" key="GridCell.Tab.0.bottom" timestamp="1593433632616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593433632616" />
+    <state width="1323" height="205" key="GridCell.Tab.0.center" timestamp="1593433632616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593433632616" />
+    <state width="1323" height="205" key="GridCell.Tab.0.left" timestamp="1593433632616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593433632616" />
+    <state width="1323" height="205" key="GridCell.Tab.0.right" timestamp="1593433632616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593433632616" />
+    <state x="263" y="107" key="IDE.errors.dialog" timestamp="1593179687219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="107" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1593179687219" />
+  </component>
+</project>
